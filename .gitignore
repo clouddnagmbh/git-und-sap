@@ -1,2 +1,3 @@
 /privat
 *.properties
+.DS_Store
