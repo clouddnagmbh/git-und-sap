@@ -1,3 +1,1 @@
-Änderung Main
-und
-Änderung Feature
+Änderung am Remote-Repo
